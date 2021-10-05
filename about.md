@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+目前就职于一家银行进行后端开发工作，写博客的目的是记录学习笔记以及工作中踩过的坑。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### 个人邮箱(emai)：`xiongwei229@126.com`
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xiongwei229@126.com](mailto:xiongwei229@126.com)
