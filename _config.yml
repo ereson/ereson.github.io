@@ -6,7 +6,7 @@
 name: ereson
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 分享日常学习知识，记录踩过的坑（share knowledge)!!!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: xiongwei229@126.com
+  email: 
   facebook:
   flickr:
-  github: github.com/ereson
+  github: /ereson
   instagram:
   linkedin:
   pinterest:
