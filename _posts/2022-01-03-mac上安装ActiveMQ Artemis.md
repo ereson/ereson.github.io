@@ -1,4 +1,7 @@
-# mac上安装ActiveMQ Artemis
+---
+layout: post
+title: mac上安装ActiveMQ Artemis
+---
 
 
 ## 缘由
