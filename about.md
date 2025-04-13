@@ -7,7 +7,7 @@ permalink: /about/
 
 ### More Information
 
-#### 个人邮箱(emai)：`xiongwei229@126.com`
+#### 个人邮箱(emai)：`2297896435@qq.com`
 
 ### Contact me
 
